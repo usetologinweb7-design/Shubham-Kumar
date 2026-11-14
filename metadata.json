@@ -1,0 +1,6 @@
+{
+  "name": "Rasoi Guru",
+  "description": "Beginner-friendly Hindi and English step-by-step cooking app with Indian and international recipes, 5-minute meals, ingredient checklists, and persistent favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
